@@ -12,8 +12,7 @@ Following the data science process for generating useful insights and implementi
 
 ## Motivation and Summary
 As we advance more into the future, each day we come the realization that we that we are in need of all the services the internet have to offer and we reached a level where we can not live without, such as Social Media and E-Commerce websites, now more than ever after having COVID-19 spreading, we can see that depending on E-Commerce store is now a necessity  and not a privilege we had the option to choose.
-In the following project we will cover the following topics:
-
+I have followed the CRISP-DM(Cross-Industry Standard Process for Data Mining) process in the analysis the answer the following topics:
 * Introduction To Olist and Our Data Source
 * What Is The Most Frequent Payment Type?
 * Payment Value Distribution Per Customer
